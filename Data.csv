@@ -1,0 +1,52 @@
+WheelEncode,Camera,Lidar,Proximity,GSMGPS,ResultInt,Result,Time
+120,1,1,9999,80,0,"you can decrease your speed
+
+",08:04:2021 18:30:40 PM
+120,1,1,9999,45,0,"you can decrease your speed
+
+",08:04:2021 18:31:01 PM
+120,1,1,9999,45,0,"you can decrease your speed
+
+",08:04:2021 18:31:08 PM
+120,2,1,60,10,1,"Maintain your speed and environment
+
+",08:04:2021 18:31:55 PM
+120,2,1,10,10,1,"Maintain your speed and environment
+
+",08:04:2021 18:32:03 PM
+120,2,2,0.75,10,3,"you can see environment and apply brakes
+
+",08:04:2021 18:32:26 PM
+45,1,1,90,120,0,"you can decrease your speed
+
+",08:04:2021 18:43:50 PM
+45,2,1,90,120,2,"you can increase your speed
+
+",08:04:2021 18:43:57 PM
+45,2,1,90,120,2,"you can increase your speed
+
+",08:04:2021 18:46:16 PM
+45,1,1,90,120,0,"you can decrease your speed
+
+",08:04:2021 18:47:31 PM
+45,2,1,90,120,2,"you can increase your speed
+
+",08:04:2021 18:47:37 PM
+45,2,1,90,120,2,"you can increase your speed
+
+",08:04:2021 18:47:40 PM
+120,1,1,9999,10,0,"you can decrease your speed
+
+",08:04:2021 18:31:22 PM
+120,2,1,0.75,10,3,"you can see environment and apply brakes
+
+",08:04:2021 18:32:12 PM
+120,2,1,9999,10,1,"Maintain your speed and environment
+
+",08:04:2021 18:31:35 PM
+45,2,1,90,120,2,"you can increase your speed
+
+",08:04:2021 18:46:13 PM
+45,2,1,90,120,2,"you can increase your speed
+
+",08:04:2021 18:47:39 PM

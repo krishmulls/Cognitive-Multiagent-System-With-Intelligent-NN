@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30711.63
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "DBTOCSV_TRAIN", "DBTOCSV_TRAIN.pyproj", "{7689A6F7-C83D-49FE-9468-8F7B53CC559A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7689A6F7-C83D-49FE-9468-8F7B53CC559A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7689A6F7-C83D-49FE-9468-8F7B53CC559A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1FC6DBAA-9EE6-41D0-A05B-7D511BB7B5B5}
+	EndGlobalSection
+EndGlobal
